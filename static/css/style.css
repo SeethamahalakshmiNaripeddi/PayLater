@@ -1,0 +1,77 @@
+.Registration{
+    width: 20%;
+    float: left;
+
+    margin: 18% 30% 10% 30% ;
+    
+    background-color:aliceblue;
+    border: 1px solid black;
+    padding: 5%  5% 5% 10%;
+}
+body{
+    background-color: aquamarine;
+}
+.Registration button{
+    float: left;
+    width: 40%;
+    font-size: 20px;
+    text-align: center;
+    margin: 0%  20% 5% 20%;
+}
+p{
+    
+    font-size: 25px;
+}
+.login{
+    width: 20%;
+    float: left;
+
+    margin: 18% 30% 10% 30% ;
+    
+    background-color:aliceblue;
+    border: 1px solid black;
+    padding: 5%  5% 5% 10%;
+}
+.login button{
+    float: left;
+    width: 50%;
+    font-size: 15px;
+    margin: 5% 0% 0% 12%;
+    padding: 5% 5% 5% 5%;
+}
+.login input{
+    float: left;
+    width: 60%;
+    margin: 10% 10% 3% 2%;
+    padding: 1% 5% 1% 5%;
+    height: 50px;
+    font-size: 20px;
+}
+
+.org button{
+    float: left;
+    width: 80%;
+
+    margin: 0% 0% 0% 10%;
+    padding: 5%;
+    font-size: 50px;
+    
+   
+}
+.usr button{
+    float: left;
+    width: 80%;
+
+    margin: 5% 0% 0% 10%;
+    padding: 5%;
+    font-size: 50px;
+}    
+
+.Signup{
+    float: left;
+    width:60%;
+    border: 1px solid black;
+    margin: 5% 0% 10% 20%;
+    padding: 10% 0% 10% 0%;
+
+}
